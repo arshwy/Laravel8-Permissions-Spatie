@@ -1,2 +1,2 @@
-# Laravel8-Permissions-Spatie
-Roles and Permissions with Spatie Laravel package
+# laravel-roles-and-permissions-with-spatie
+Create Roles and Permissions for your Laravel Application using Spatie Package
